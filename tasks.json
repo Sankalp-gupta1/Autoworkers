@@ -1,0 +1,12 @@
+[
+  {"name": "invoice-entry",
+   "task": "Find the latest invoice from Globex, extract the amount and due date, enter it into our ERP, and tell me once it is done."},
+  {"name": "vendor-update",
+   "task": "Initech emailed us about a change to their accounts contact. Update our vendor records accordingly."},
+  {"name": "batch-entry",
+   "task": "Make sure every vendor invoice that arrived in the accounts inbox in September 2026 is recorded in the ERP. Don't create duplicates."},
+  {"name": "missing-info",
+   "task": "Enter the latest invoice from Hooli into the ERP."},
+  {"name": "ambiguous",
+   "task": "Check what we owe Stark and record their latest invoice."}
+]
