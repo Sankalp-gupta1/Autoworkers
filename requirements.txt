@@ -2,6 +2,7 @@ anthropic>=0.40
 openai>=1.50
 playwright>=1.45
 flask>=3.0
+Werkzeug>=3.0
 reportlab>=4.0
 pypdf>=4.0
 pytest>=8.0
